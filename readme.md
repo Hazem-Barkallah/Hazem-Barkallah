@@ -54,9 +54,9 @@
 <div align="center">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem-Barkallah&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="450" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem-Barkallah&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="350" alt="Top Languages" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hazem-Barkallah&theme=highcontrast&hide_border=false" width="450" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Hazem-Barkallah&theme=highcontrast&hide_border=false" width="350" alt="GitHub Streak" />
 </p>
 <p>
 
