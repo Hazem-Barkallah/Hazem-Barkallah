@@ -54,16 +54,17 @@
 <div align="center">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem-Barkallah&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="350" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem-Barkallah&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=60" width="350" alt="Top Languages" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hazem-Barkallah&theme=highcontrast&hide_border=false" width="350" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Hazem-Barkallah&theme=highcontrast&hide_border=false&cache_seconds=60" width="350" alt="GitHub Streak" />
 </p>
-<p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hazem-Barkallah&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" width="600" alt="GitHub Stats" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hazem-Barkallah&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60" width="600" alt="GitHub Stats" />
 </p>
 
 </div>
+
 
 
 
