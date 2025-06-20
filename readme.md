@@ -61,7 +61,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hazem-Barkallah&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60" width="600" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hazem-Barkallah&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=30" width="600" alt="GitHub Stats" />
 </p>
 
 </div>
