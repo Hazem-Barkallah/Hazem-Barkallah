@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazem-barkallah&label=Profile%20views&color=0e75b6&style=flat" alt="hazem-barkallah" /> </p>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazem-barkallah&cache_seconds=30" alt="hazem-barkallah" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazem-barkallah" alt="hazem-barkallah" /></a> </p>
 
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hazem.barkallah.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hazem-barkallah-a682b4338/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barkhazem@gmail.com) 
