@@ -54,9 +54,9 @@
 # 📊 GitHub Stats:
 <div align="center">
 <p>
-  <img alt="Hazem Barkallah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem-Barkallah&theme=highcontrast" />
+  <img alt="Hazem Barkallah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem-Barkallah&theme=highcontrast&cache_seconds=30"" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hazem-Barkallah&theme=highcontrast&hide_border=false&cache_seconds=60" width="350" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Hazem-Barkallah&theme=highcontrast&hide_border=false&cache_seconds=30" width="350" alt="GitHub Streak" />
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Hazem-Barkallah&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=30" width="600" alt="GitHub Stats" />
