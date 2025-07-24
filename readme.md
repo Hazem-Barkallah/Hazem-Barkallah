@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hazem barkallah</h1>
-<h4 align="center">🎓CS Student |  Frontend Developer |  Aspiring Full-Stack Engineer</h4>  
-<h4 align="center">💻 Currently building React dashboards & exploring the backend universe</h4>
+<h4 align="center">🎓 CS Student | Full-Stack Developer | Exploring AI & Data Science</h4>  
+<h4 align="center">💻 Currently building React dashboards, diving into backend & AI realms</h4>
 <h4 align="center">🎮 League of Legends support main – always trying to carry my ADC</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazem-barkallah&label=Profile%20views&color=0e75b6&style=flat" alt="hazem-barkallah" /> </p>
