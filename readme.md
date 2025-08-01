@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Hazem barkallah</h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Calibri+Code&pause=1000&width=500&lines=Hi,+I'm+Hazem+Barkallah+|+Enjoy+your+visit" alt="Typing SVG" /></h1>
 <h4 align="center">🎓 CS Student | Full-Stack Developer | Exploring AI & Data Science</h4>  
 <h4 align="center">💻 Currently building React/Angular dashboards, diving into ML & AI realms</h4>
 <h4 align="center">🎮 League of Legends support main – always trying to carry my ADC</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazem-barkallah&label=Profile%20views&color=0e75b6&style=flat" alt="hazem-barkallah" /> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjYxeGhrdWd1dHphd2N1a3YxNWZ5YTBibDZ1M2hhbm15YjIyeGQ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kJZRKKXzOFJNS/giphy.gif" width="60" alt="You're the best!"> GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazem-barkallah" alt="hazem-barkallah" /></a> </p>
 
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hazem.barkallah.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hazem-barkallah-a682b4338/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barkhazem@gmail.com) 
 
-## Languages and tools:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  Languages and tools:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
 </a>
@@ -51,19 +52,22 @@
   
 </p>
 
-# 📊 GitHub Stats:
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">  GitHub Stats:
 <div align="center">
 <p>
-  <img alt="Hazem Barkallah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem-Barkallah&theme=highcontrast&cache_seconds=30"" />
+  <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazem-barkallah&theme=highcontrast&layout=compact" 
+  width="350" 
+  alt="Top Languages Used by hazem-barkallah" 
+/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hazem-Barkallah&theme=highcontrast&hide_border=false&cache_seconds=30" width="350" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Hazem-Barkallah&theme=highcontrast&hide_border=false&cache_seconds=30" height="500" width="350" alt="GitHub Streak" />
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Hazem-Barkallah&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=30" width="600" alt="GitHub Stats" />
 </p>
 
 </div>
-
 
 
 
@@ -75,3 +79,5 @@
 [![](https://visitcount.itsvg.in/api?id=Hazem-Barkallah&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
