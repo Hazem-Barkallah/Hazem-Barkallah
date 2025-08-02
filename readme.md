@@ -64,8 +64,11 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Hazem-Barkallah&theme=highcontrast&hide_border=false&cache_seconds=30" height="500" width="350" alt="GitHub Streak" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hazem-Barkallah&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=30" width="600" alt="GitHub Stats" />
-</p>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=hazem-barkallah&show_icons=true&theme=highcontrast" 
+  alt="Hazem's GitHub stats" 
+  style="max-width: 100%; height: auto;"
+/></p>
 
 </div>
 
