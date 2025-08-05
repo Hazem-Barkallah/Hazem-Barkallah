@@ -1,7 +1,9 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Calibri+Code&pause=1000&width=500&lines=Hi,+I'm+Hazem+Barkallah+|+Enjoy+your+visit" alt="Typing SVG" /></h1>
 <h4 align="center">🎓 CS Student | Full-Stack Developer | Exploring AI & Data Science</h4>  
 <h4 align="center">💻 Currently building React/Angular dashboards, diving into ML & AI realms</h4>
-<h4 align="center">🎮 League of Legends support main – always trying to carry my ADC</h4>
+<h4 align="center">🎮 League of Legends support main - always trying to carry my ADC</h4>
+<h4 align="center">🏓 You can't beat me in Table Tennis - challenge me at your own risk</h4>
+<h4 align="center">🪲 Enjoys bugs... only in debates</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazem-barkallah&label=Profile%20views&color=0e75b6&style=flat" alt="hazem-barkallah" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -56,7 +58,7 @@
 <div align="center">
 <p>
   <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazem-barkallah&theme=highcontrast&layout=compact" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazem-barkallah&theme=highcontrast&layout=compact&cache_seconds=30" 
   width="350" 
   alt="Top Languages Used by hazem-barkallah" 
 />
